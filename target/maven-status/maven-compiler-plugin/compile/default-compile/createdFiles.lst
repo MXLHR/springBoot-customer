@@ -1,0 +1,4 @@
+com\xianlei\boot\service\HelloService.class
+com\xianlei\boot\config\HelloServiceAutoConfiguration.class
+com\xianlei\boot\config\bean\HelloServiceProperties.class
+com\xianlei\springBoot_customer\App.class
